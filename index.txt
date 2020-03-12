@@ -1,0 +1,399 @@
+<!-- <section class="room-availability spad">
+        <div class="container">
+            <div class="room-check">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="room-item">
+                            <div class="room-pic-slider room-pic-item owl-carousel">
+                                <div class="room-pic">
+                                    <img src="img/room-slider/room-1.jpg" alt="">
+                                </div>
+                                <div class="room-pic">
+                                    <img src="img/room-slider/room-2.jpg" alt="">
+                                </div>
+                                <div class="room-pic">
+                                    <img src="img/room-slider/room-3.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="room-text">
+                                <div class="room-title">
+                                 <!--   <h2>Junior Suite</h2>
+                                    <div class="room-price">
+                                        <span>From</span>
+                                        <h2>1500</h2> 
+                                    </div> -->
+                                </div>
+                                <div class="room-features">
+                                    <div class="room-info">
+                                      <!--  <i class="flaticon-019-television"></i>
+                                        <span>TV</span> -->
+                                    </div>
+                                    <div class="room-info">
+                                       <!-- <i class="flaticon-029-wifi"></i>
+                                        <span>Wi-fii</span> -->
+                                    </div>
+                                    <div class="room-info">
+                                      <!--  <i class="flaticon-003-air-conditioner"></i>
+                                        <span>AC</span> -->
+                                    </div>
+                                    <div class="room-info">
+                                       <!-- <i class="flaticon-036-parking"></i>
+                                        <span>Parking</span> -->
+                                    </div>
+                                  <!--  <div class="room-info last">
+                                        <i class="flaticon-007-swimming-pool"></i>
+                                        <span>Pool</span>
+                                    </div> -->  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                    <h1 style="color:#8b7051;">About Us </h1>   
+                        <hr>
+                        <h2>Who We are : Venky Residency</h2>
+                        <hr>
+                        <h3>What Do We Do :Giving You the Best Experience !!</h3>
+                        <hr>
+                        <h4>Where Wre We Located : KAKINADA !!
+                        </h4>
+                        <HR>
+                     <!--   <div class="check-form">
+                            <h2>Check Availability</h2>
+                            <form action="#">
+                                <div class="datepicker">
+                                    <div class="date-select">
+                                        <p>From</p>
+                                        <input type="text" class="datepicker-1" value="dd / mm / yyyy">
+                                        <img src="img/calendar.png" alt="">
+                                    </div>
+                                    <div class="date-select to">
+                                        <p>To</p>
+                                        <input type="text" class="datepicker-2" value="dd / mm / yyyy">
+                                        <img src="img/calendar.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="room-quantity">
+                                    <div class="single-quantity">
+                                        <p>Adults</p>
+                                        <div class="pro-qty"><input type="text" value="0"></div>
+                                    </div>
+                                    <div class="single-quantity">
+                                        <p>Children</p>
+                                        <div class="pro-qty"><input type="text" value="0"></div>
+                                    </div>
+                                    <div class="single-quantity last">
+                                        <p>Rooms</p>
+                                        <div class="pro-qty"><input type="text" value="0"></div>
+                                    </div>
+                                </div>
+                                <div class="room-selector">
+                                    <p>Room</p>
+                                    <select class="suit-select">
+                                        <option>Eg. Master suite</option>
+                                        <option value="">Double Room</option>
+                                        <option value="">Single Room</option>
+                                        <option value="">Special Room</option>
+                                    </select>
+                                </div>
+                                <button type="button">CHECK Availability <i class="lnr lnr-arrow-right"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div> -->
+            </div> 
+        <!--    <div class="about-room">
+                <div class="row">
+                    <div class="col-lg-10 offset-lg-1">
+                        <h2>“Customers may forget what you said  but they will never forget how you made themfeel”.</h2>
+                    </div>
+                </div>
+                <div class="about-para">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <p>We are  situated ideally in prime location. The ambiance is beautiful and perfect for family outing once in while.
+The hotel staff is very polite and also provide valuable information on the Hotel !!
+</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <p>A budget hotel at a strategic location. Rooms are well laid out and though not a great ambience, it certainly serves the purpose. Food is very good and famous for pot biryanies. For the price point they offer, it's certainly is a good stay. Cellar parking is limited.</p>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </section>
+    <!-- Room Availability Section End -->
+
+    <!-- Facilities Section Begin -->
+    <div class="facilities-section spad">
+        <div class="container">
+            <div class="facilities-content">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title">
+                        <h1 style="color:#8b7051;">Our Services</h2> </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 p-0">
+                        <div class="facilities-img set-bg" data-setbg="img/fac.jpg"></div>
+                    </div>
+                    <div class="col-lg-6 p-0 ">
+                        <div class="facilities-text-warp">
+                            <div class="facilities-text">
+                                 <a href="./halls.php"><h2 style="color:#8b7051;">Wedding Halls </h2> </a>
+                                <p>Our Wedding Hall Gives You Unforgetable Experience</p>
+                                <a href="./halls.php"> <p style="color:#8b7051;">Click Here To Know More </p></a>
+                               <!-- <a href="#" class="primary-btn fac-btn">Visit Center <i class="lnr lnr-arrow-right"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 p-0 order-lg-1 order-2">
+                        <div class="facilities-text-warp">
+                            <div class="facilities-text">
+                            <a href="./halls.php"><h2 style="color:#8b7051;">Banquet Halls </h2> </a> 
+                                <p>Our Banquet Hall  Are Here to Make you Feel Relax</p>
+                                <a href="./halls.php"> <p style="color:#8b7051;">Click Here To Know More </p></a>
+                               <!-- <a href="#" class="primary-btn fac-btn">Visit Center <i class="lnr lnr-arrow-right"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 p-0 order-lg-2 order-1">
+                        <div class="facilities-img set-bg" data-setbg="img/fac2.jpg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>        
+    <!-- Facilities Section End -->
+    <!-- Facilities Section Begin -->
+    <div class="facilities-section spad">
+        <div class="container">
+            <div class="facilities-content">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title">
+                        <a href="./rooms.php"> <h1 style="color:#8b7051;">Our Rooms</h1></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 p-0">
+                        <div class="facilities-img set-bg" data-setbg="img/deb.jpg"></div>
+                    </div>
+                    <div class="col-lg-6 p-0 ">
+                        <div class="facilities-text-warp">
+                            <div class="facilities-text">
+                            <a href="./rooms.php"> <h2 style="color:#8b7051;">Rooms</h2> </a>   
+                                <p>Our Rooms Gives You Unforgetable Experience</p>
+                                <a href="./rooms.php"> <p style="color:#8b7051;">Click Here To Know More </p></a>
+                               <!-- <a href="#" class="primary-btn fac-btn">Visit Center <i class="lnr lnr-arrow-right"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col-lg-6 p-0 order-lg-2 order-1">
+                        <div class="facilities-img set-bg" data-setbg="img/pla.jpg"></div>
+                    </div>
+                    <div class="col-lg-6 p-0 order-lg-1 order-2">
+                        <div class="facilities-text-warp">
+                            <div class="facilities-text">
+                               <a href="./travel.php"><h2 style="color:#8b7051;">Places To Visit </h2> </a>   
+                                <p>We Will Give You an Amzing Experience </p>
+                                 <a href="./travel.php"><p style="color:#8b7051;">Click Here To know More  </p></a>   
+                               <!-- <a href="#" class="primary-btn fac-btn">Visit Center <i class="lnr lnr-arrow-right"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </div>    
+    <section class="room-availability spad">
+        <div class="container">
+            <div class="room-check">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="room-item">
+                           <a href="./food.php"><a href="./rooms.php"><h1 style="color:#8b7051;">Restaurant</h1></a>   
+                            <div class="room-pic-slider room-pic-item owl-carousel">
+                                <div class="room-pic">
+                                  <li><a href="./food.php"><img src="img/room-slider/fd1.jpeg" alt=""></a></li>    
+                                </div>
+                                <div class="room-pic">
+                                    <li><a href="./food.php"><img src="img/room-slider/fd2.jpeg"alt=""></a></li>
+                                </div>
+                                <div class="room-pic">
+                                   <li><a href="./food.php"><img src="img/room-slider/fd3.jpg" alt=""></a></li>
+                                </div>
+                                <div class="room-pic">
+                                   <li><a href="./food.php"><img src="img/room-slider/fd4.jpg" alt=""></a></li>
+                                </div>
+                                <div class="room-pic">
+                                    <li><a href="./food.php"><img src="img/room-slider/fd5.jpg" alt=""></a></li>
+                                </div>
+                                <div class="room-pic">
+                                    <li><a href="./food.php"><img src="img/room-slider/fd6.jpg" alt=""></a></li>
+                                </div>
+                            </div>
+
+                            <div class="room-text">
+                                <div class="room-title">
+                                    <h2>We Offer Amazing Food</h2>
+                                  <!--  <div class="room-price">
+                                        <span>From</span>
+                                        <h2>1500</h2> 
+                                    </div>-->
+                                </div>
+                              <!--  <div class="room-features">
+                                    <div class="room-info">
+                                        <i class="flaticon-019-television"></i>
+                                        <span>TV</span>
+                                    </div>
+                                    <div class="room-info">
+                                        <i class="flaticon-029-wifi"></i>
+                                        <span>Wi-fii</span>
+                                    </div>
+                                    <div class="room-info">
+                                        <i class="flaticon-003-air-conditioner"></i>
+                                        <span>AC</span>
+                                    </div>
+                                    <div class="room-info">
+                                        <i class="flaticon-036-parking"></i>
+                                        <span>Parking</span>
+                                    </div>
+                                   <div class="room-info last">
+                                        <i class="flaticon-007-swimming-pool"></i>
+                                        <span>Pool</span>
+                                    </div> -->  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 
+        </div>
+    </div>
+    </section>
+
+    <div class="testimonial-section spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title">
+                    <h1 style="color:#8b7051;">Guest Book </h1> 
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="testimonial-item">
+                        <div class="tab-content">
+                            <div class="tab-pane fade-in active" id="testimonial-1" role="tabpanel">
+                                <div class="single-testimonial-item">
+                                 <!--   <span class="test-date">02/02/2019</span> -->
+                                    <div class="test-rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                    <h4>Loved It</h4>
+                                    <p>Excellent Service</p>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="testimonial-2" role="tabpanel">
+                                <div class="single-testimonial-item">
+                                <!--    <span class="test-date">02/02/2019</span> -->
+                                    <div class="test-rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                    <h4>Amazing !!</h4>
+                                    <p>Excellent Service</p>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="testimonial-3" role="tabpanel">
+                                <div class="single-testimonial-item">
+                               <!--     <span class="test-date">02/02/2019</span> -->
+                                    <div class="test-rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                    <h4>Mind Blowing !!</h4>
+                                    <p>Excellent Service</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="testimonial-author-item">
+                        <ul class="nav" role="tablist">
+                            <li>
+                                <a data-toggle="tab" href="#testimonial-1" role="tab" class="show active">
+                                    <div class="author-pic">
+                                        <img src="img/testimonial/author-1.jpg" alt="">
+                                    </div>
+                                    <div class="author-text">
+                                        <h5>Karthi <span>Kumar </span></h5>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-toggle="tab" href="#testimonial-2" role="tab">
+                                    <div class="author-pic">
+                                        <img src="img/testimonial/author-2.jpg" alt="">
+                                    </div>
+                                    <div class="author-text">
+                                        <h5>Akhil  <span>Kishore !!</span></h5>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a data-toggle="tab" href="#testimonial-3" role="tab">
+                                    <div class="author-pic">
+                                        <img src="img/testimonial/author-3.jpg" alt="">
+                                    </div>
+                                    <div class="author-text">
+                                        <h5>Rock <span>Star !!</span></h5>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Follow Instagram Section Begin -->
+    <section class="follow-instagram">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                <h2 style="color:#8b7051;">Follow Us </h2> 
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Follow Instagram Section End -->
+
+    <!-- Footer Room Pic Section Begin -->
+    <div class="footer-room-pic">
+        <div class="container-fluid">
+            <div class="row">
+                <img src="img/room-footer-pic/room-1.jpg" alt="">
+                <img src="img/room-footer-pic/room-2.jpg" alt="">
+                <img src="img/room-footer-pic/room-3.jpg" alt="">
+                <img src="img/room-footer-pic/room-4.jpg" alt="">
+            </div>
+        </div>
+    </div>
