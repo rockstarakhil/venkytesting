@@ -193,12 +193,12 @@
         </div>
       </div>  
     </div>
+    <br>
      <div class="about-us-room spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
-                    <h2>“Customers may forget what you said  but they will never forget how you made them
-                        feel”.</h2>
+                    <Center><h2>Venky Residency</h2></Center>
                 </div>
             </div>
             <div class="about-para">
@@ -240,7 +240,7 @@
                   <ul class="list-unstyled">
                      <div class="widget-text">
                             <i class="lnr lnr-map-marker"></i>
-                             <p style="color:#8b7051;">Door No. 12-1, 28, Jawahar St, opposite Salipeta Fire Station, Surya Rao Peta,<br />Kakinada, Andhra Pradesh 533001</p>
+                             <p>Door No. 12-1, 28, Jawahar St, opposite Salipeta Fire Station, Surya Rao Peta,<br />Kakinada, Andhra Pradesh 533001</p>
                         </div>
             
           </div>
@@ -251,7 +251,7 @@
                   <ul class="list-unstyled">
                      <div class="widget-text">
                             <i class="lnr lnr-map-marker"></i>
-                             <p style="color:#8b7051;">0884 230 2266</p>
+                             <p>0884 230 2266</p>
                         </div>
                    <!-- <li><a href="#">About</a></li>
                     <li><a href="#">Services</a></li>
