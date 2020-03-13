@@ -113,7 +113,7 @@ ol {
 [class*=" flaticon-"]:before,
 [class^=flaticon-]:after,
 [class*=" flaticon-"]:after {
-    font-family: Flaticon;
+    font-family: Roboto;
     font-size: 40px;
     font-style: normal;
 }
@@ -321,7 +321,7 @@ ol {
 
 .header-section.other-page .inner-header .top-widget .top-info.phone-num span {
     font-size: 14px;
-    font-family: "roboto", sans-serif;
+    font-family: roboto, sans-serif;
     font-weight: 400;
     color: #ffffff;
     letter-spacing: 0.5px;
