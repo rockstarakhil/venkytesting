@@ -39,17 +39,15 @@
       </div>
       <div class="site-mobile-menu-body"></div>
     </div> <!-- .site-mobile-menu -->
-    
-    
     <div class="site-navbar-wrap js-site-navbar bg-white">
-      
+       
       <div class="container">
         <div class="site-navbar bg-light">
           <div class="py-1">
             <div class="row align-items-center">
-              <div class="col-0">
-                <h2 class="mb-0 site-logo"><img src="img/venkylogo.png" width="160" height=140>
-              </div>
+              <div class="col-0"> 
+                <h2 class="mb-0 site-logo"><img src="img/venkylogo.png" width="190" height=270>
+              </div> 
               <div class="col-10">
                 <nav class="site-navigation text-right" role="navigation">
                   <div class="container">
