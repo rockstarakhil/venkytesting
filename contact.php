@@ -46,7 +46,7 @@
                 <br>
                  <div class="top-info address">
                     <img src="img/placeholder.png" alt="">
-                    <span> <a href="https://g.page/VenkyResidency?share">Jawahar St, Surya Rao Peta, Kakinada, Andhra Pradesh</span></a>
+                    <span> <a href="https://g.page/VenkyResidency?share">Find Us Here </span></a>
                     </div> 
                     
                 <div class="top-widget">
