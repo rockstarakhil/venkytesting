@@ -507,7 +507,7 @@ a:hover {
     color: #fff;
 }
 
-/*.site-navbar-wrap.scrolled {
+.site-navbar-wrap.scrolled {
     z-index: 99;
     padding: 0px 0;
     -webkit-box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.1);
@@ -532,9 +532,9 @@ a:hover {
 }
 
 .site-navbar-wrap.scrolled .site-navbar .site-navigation .site-menu>li.active>a {
-    color: #f23a2e !important;
+    color: white !important;
 }
-*/
+
 .site-mobile-menu {
     width: 300px;
     position: fixed;
