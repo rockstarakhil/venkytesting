@@ -9,12 +9,12 @@ body {
 }
 
 ::-moz-selection {
-    background: #000;
+    background: green;
     color: #fff;
 }
 
 ::selection {
-    background: #000;
+    background: green;
     color: #fff;
 }
 
@@ -297,7 +297,7 @@ a:hover {
 }
 
 .site-navbar .site-logo {
-    font-weight: 200;
+    font-weight: 500;
     font-family: "Playfair Display";
 }
 
@@ -478,6 +478,7 @@ a:hover {
 
 .site-navbar-wrap {
     background: transparent !important;
+    background-color: green;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -511,7 +512,7 @@ a:hover {
     padding: 0px 0;
     -webkit-box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.1);
-    background: #fff !important;
+    background: black !important;
 }
 
 .site-navbar-wrap.scrolled .site-menu-toggle span {
