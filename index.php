@@ -48,7 +48,7 @@
           <div class="py-1">
             <div class="row align-items-center">
               <div class="col-0">
-                <h2 class="mb-0 site-logo"><img src="img/download.jpg" alt="Trulli" width="110" height=70>
+                <h2 class="mb-0 site-logo"><img src="img/vklo.png" alt="Trulli" width="160" height=250>
               </div>
               <div class="col-10">
                 <nav class="site-navigation text-right" role="navigation">
