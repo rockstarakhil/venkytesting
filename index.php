@@ -44,7 +44,7 @@
           <div class="py-1">
             <div class="row align-items-center">
               <div class="col-2"> 
-                <img src="img/v1.jpg" width="150" height=100>
+                <img src="img/v1.png" width="120" height=100>
               </div> 
              
               <div class="col-10">
@@ -63,19 +63,19 @@
                         <a href="./about-us.php">About-Us</a>
                       </li>
                       <li class="active">
-                        <a href="./about-us.php">Rooms</a>
+                        <a href="./rooms.php">Rooms</a>
                       </li>
                       <li class="active">
-                        <a href="./about-us.php"> Restaurant</a>
+                        <a href="./food.php"> Restaurant</a>
                       </li>
                       <li class="active">
-                        <a href="./about-us.php">Halls</a>
+                        <a href="./halls.php">Halls</a>
                       </li>
                       <li class="active">
-                        <a href="./about-us.php">TravelBlog</a>
+                        <a href="./travel.php">TravelBlog</a>
                       </li>
                       <li class="active">
-                        <a href="./about-us.php">Contact Us</a>
+                        <a href="./contact.php">Contact Us</a>
                       </li>
 
                       
