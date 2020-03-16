@@ -43,12 +43,12 @@
         <div class="site-navbar bg-light">
           <div class="py-1">
             <div class="row align-items-center">
-              <div class="col-0"> 
-                <h2 class="mb-0 site-logo"><img src="img/venkylogo.png" width="190" height=170>
+              <div class="col-2"> 
+                <img src="img/v1.jpg" width="150" height=100>
               </div> 
              
               <div class="col-10">
-                
+
 
                 <nav class="site-navigation text-right" role="navigation">
 
