@@ -28,9 +28,8 @@
     
   </head>
   <body>
-  
-  <div class="site-wrap">
 
+  <div class="site-wrap">
     <div class="site-mobile-menu">
       <div class="site-mobile-menu-header">
         <div class="site-mobile-menu-close mt-3">
@@ -40,16 +39,19 @@
       <div class="site-mobile-menu-body"></div>
     </div> <!-- .site-mobile-menu -->
     <div class="site-navbar-wrap js-site-navbar bg-white">
-       
       <div class="container">
         <div class="site-navbar bg-light">
           <div class="py-1">
             <div class="row align-items-center">
               <div class="col-0"> 
-                <h2 class="mb-0 site-logo"><img src="img/venkylogo.png" width="190" height=270>
+                <h2 class="mb-0 site-logo"><img src="img/venkylogo.png" width="190" height=170>
               </div> 
+             
               <div class="col-10">
+                
+
                 <nav class="site-navigation text-right" role="navigation">
+
                   <div class="container">
                     
                     <div class="d-inline-block d-lg-none  ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu h3"></span></a></div>
