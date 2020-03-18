@@ -98,7 +98,7 @@
                     </div>
                 </div>
                 <div class="page-nav">
-                    <a href="./services.php" class="left-nav"><i class="lnr lnr-arrow-left"></i> Services</a>
+                    <a href="./about-us.php" class="left-nav"><i class="lnr lnr-arrow-left"></i>About Us </a>
                     <a href="./food.php" class="right-nav">Restaurant<i class="lnr lnr-arrow-right"></i></a>
                 </div>
             </div>
