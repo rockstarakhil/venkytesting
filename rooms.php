@@ -15,6 +15,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
+    <link rel="stylesheet" href="my-icons-collection/font/flaticon.css" type="text/css">
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="css/flaticon.css" type="text/css">
@@ -135,20 +136,20 @@
                             </div>
                             <div class="room-features">
                                 <div class="room-info">
-                                    <i class="flaticon-019-television"></i>
-                                    <span>Tv</span>
+                                   <!-- <i class="flaticon-019-television"></i> -->
+                                    <span><h3>Tv</h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-029-wifi"></i>
-                                    <span>High Wi-fii</span>
+                                   
+                                   <span><h3>Wi-Fi</h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-003-air-conditioner"></i>
-                                    <span>AC</span>
+                                   
+                                  <span><h3>Parking </h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-036-parking"></i>
-                                    <span>Parking</span>
+                                    
+                                   <span><h3>AC</h3></span>
                                 </div>
                                 
                             </div>
@@ -179,25 +180,22 @@
                                     <sub>/night</sub>
                                 </div>
                             </div>
-                            <div class="room-desc">
-                                <p>We Provide All these Services To You !!</p>
-                            </div>
-                            <div class="room-features">
+                           <div class="room-features">
                                 <div class="room-info">
-                                    <i class="flaticon-019-television"></i>
-                                    <span>Tv</span>
+                                   <!-- <i class="flaticon-019-television"></i> -->
+                                    <span><h3>Tv</h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-029-wifi"></i>
-                                    <span>High Wi-fii</span>
+                                   
+                                   <span><h3>Wi-Fi</h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-003-air-conditioner"></i>
-                                    <span>AC</span>
+                                   
+                                  <span><h3>Parking </h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-036-parking"></i>
-                                    <span>Parking</span>
+                                    
+                                   <span><h3>AC</h3></span>
                                 </div>
                                 
                             </div>
@@ -228,25 +226,22 @@
                                     <sub>/night</sub>
                                 </div>
                             </div>
-                            <div class="room-desc">
-                                <p>We Provide All these Services To You !!</p>
-                            </div>
-                            <div class="room-features">
+                           <div class="room-features">
                                 <div class="room-info">
-                                    <i class="flaticon-019-television"></i>
-                                    <span>Tv</span>
+                                   <!-- <i class="flaticon-019-television"></i> -->
+                                    <span><h3>Tv</h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-029-wifi"></i>
-                                    <span>High Wi-fii</span>
+                                   
+                                   <span><h3>Wi-Fi</h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-003-air-conditioner"></i>
-                                    <span>AC</span>
+                                   
+                                  <span><h3>Parking </h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-036-parking"></i>
-                                    <span>Parking</span>
+                                    
+                                   <span><h3>AC</h3></span>
                                 </div>
                                 
                             </div>
@@ -277,25 +272,22 @@
                                     <sub>/night</sub>
                                 </div>
                             </div>
-                            <div class="room-desc">
-                                <p>We Provide All these Services To You !!</p>
-                            </div>
                             <div class="room-features">
                                 <div class="room-info">
-                                    <i class="flaticon-019-television"></i>
-                                    <span>Tv</span>
+                                   <!-- <i class="flaticon-019-television"></i> -->
+                                    <span><h3>Tv</h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-029-wifi"></i>
-                                    <span>High Wi-fii</span>
+                                   
+                                   <span><h3>Wi-Fi</h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-003-air-conditioner"></i>
-                                    <span>AC</span>
+                                   
+                                  <span><h3>Parking </h3></span>
                                 </div>
                                 <div class="room-info">
-                                    <i class="flaticon-036-parking"></i>
-                                    <span>Parking</span>
+                                    
+                                   <span><h3>AC</h3></span>
                                 </div>
                                 
                             </div>

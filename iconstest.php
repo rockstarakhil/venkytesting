@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="my-icons-collection/font/flaticon.css" type="text/css">
