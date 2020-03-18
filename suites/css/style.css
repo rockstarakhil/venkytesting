@@ -5,14 +5,14 @@ body {
     color: rgba(0, 0, 0, 0.5);
     font-weight: 400;
     font-size: 1rem;
-    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: "Roboto";
 }
 
 ::-moz-selection {
     background: green;
     color: #fff;
 }
-
+ 
 ::selection {
     background: green;
     color: #fff;
@@ -322,7 +322,6 @@ a:hover {
 
 .site-navbar .site-navigation .site-menu>li>a {
     padding: 10px 10px;
-    text-transform: uppercase;
     letter-spacing: .05em;
     color: rgba(0, 0, 0, 0.6);
     font-size: 14px !important;

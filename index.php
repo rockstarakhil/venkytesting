@@ -4,6 +4,9 @@
     <title>Venky  &mdash; Residency </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <link href="https://fonts.googleapis.com/css?family=Taviraj:300,400,500,600,700,800,900&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Work+Sans:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="suites/fonts/icomoon/style.css">
@@ -66,7 +69,7 @@
                         <a href="./rooms.php">Rooms</a>
                       </li>
                       <li class="active">
-                        <a href="./food.php"> Restaurant</a>
+                        <a href="./food.php">Restaurant</a>
                       </li>
                       <li class="active">
                         <a href="./halls.php">Halls</a>
