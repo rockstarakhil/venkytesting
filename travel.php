@@ -63,7 +63,7 @@
                             <li><a href="./halls.php">Halls</a>
                                 <ul class="drop-menu">
                                     <li><a href="./halls.php">Banquet Halls</a></li>
-                                    <li><a href="./halls.php">function Halls</a></li>
+                                    <li><a href="./halls.php">Function Halls</a></li>
                                    
                                 </ul>
                             </li>
@@ -233,7 +233,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-logo">
-                        <a href="./index.php"><h3 style="color:white ;">Venky Residency </h3>
+                       <h3 style="color:white ;">Venky Residency </h3>
                     </div>
                 </div>
             </div>

@@ -62,7 +62,7 @@
                             <li><a href="./halls.php">Halls</a>
                                 <ul class="drop-menu">
                                     <li><a href="./halls.php">Banquet Halls</a></li>
-                                    <li><a href="./halls.php">function Halls</a></li>
+                                    <li><a href="./halls.php">Function Halls</a></li>
                                    
                                 </ul>
                             </li>
